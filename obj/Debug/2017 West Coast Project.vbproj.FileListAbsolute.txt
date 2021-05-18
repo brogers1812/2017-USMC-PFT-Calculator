@@ -1,0 +1,10 @@
+C:\Users\Beau\Dropbox\Beau School\Programming Concepts II\Unit VIII\TEST\West Coast Solution\West Coast Project\bin\Debug\West Coast Project.exe.config
+C:\Users\Beau\Dropbox\Beau School\Programming Concepts II\Unit VIII\TEST\West Coast Solution\West Coast Project\bin\Debug\West Coast Project.exe
+C:\Users\Beau\Dropbox\Beau School\Programming Concepts II\Unit VIII\TEST\West Coast Solution\West Coast Project\bin\Debug\West Coast Project.pdb
+C:\Users\Beau\Dropbox\Beau School\Programming Concepts II\Unit VIII\TEST\West Coast Solution\West Coast Project\bin\Debug\West Coast Project.xml
+C:\Users\Beau\Dropbox\Beau School\Programming Concepts II\Unit VIII\TEST\West Coast Solution\West Coast Project\obj\Debug\West_Coast_Project.frmMain.resources
+C:\Users\Beau\Dropbox\Beau School\Programming Concepts II\Unit VIII\TEST\West Coast Solution\West Coast Project\obj\Debug\West_Coast_Project.Resources.resources
+C:\Users\Beau\Dropbox\Beau School\Programming Concepts II\Unit VIII\TEST\West Coast Solution\West Coast Project\obj\Debug\2017 West Coast Project.vbproj.GenerateResource.Cache
+C:\Users\Beau\Dropbox\Beau School\Programming Concepts II\Unit VIII\TEST\West Coast Solution\West Coast Project\obj\Debug\West Coast Project.exe
+C:\Users\Beau\Dropbox\Beau School\Programming Concepts II\Unit VIII\TEST\West Coast Solution\West Coast Project\obj\Debug\West Coast Project.xml
+C:\Users\Beau\Dropbox\Beau School\Programming Concepts II\Unit VIII\TEST\West Coast Solution\West Coast Project\obj\Debug\West Coast Project.pdb
